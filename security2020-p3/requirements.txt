@@ -1,0 +1,4 @@
+cryptography==3.3.1
+random_username==1.0.2
+PyKCS11==1.5.10
+pyOpenSSL==20.0.1
